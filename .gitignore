@@ -2,3 +2,4 @@
 Thumbs.db
 *.db:encryptable
 *.backup
+*.exe
