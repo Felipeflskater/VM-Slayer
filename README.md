@@ -118,12 +118,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE) - veja o arquivo de l
 
 ---
 
-## 🏆 **Reconhecimentos**
-
-- Desenvolvido como projeto de aprendizado em Python
-- Inspirado pela comunidade de virtualização
-- Testado extensivamente em ambientes VM
-
----
-
 **⭐ Se este projeto te ajudou, considere dar uma estrela no repositório!**
