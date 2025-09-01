@@ -1,4 +1,3 @@
-![VM Slayer Logo](https://github.com/Felipeflskater/VM-Slayer/blob/main/imagens/icon.png?raw=true)
 # VM Slayer 🗡️
 
 > "Slaying bloated VMs since 2025"
